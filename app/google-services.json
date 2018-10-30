@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "465233955237",
+    "firebase_url": "https://praxis-deck-116613.firebaseio.com",
+    "project_id": "praxis-deck-116613",
+    "storage_bucket": "praxis-deck-116613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465233955237:android:aa572531eeed83e2",
+        "android_client_info": {
+          "package_name": "spotifylive.mob.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465233955237-8et7hv6up5n91lj839s8q7jrth5fp0gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "spotifylive.mob.com.myapplication",
+            "certificate_hash": "fa0aba63f2fc2cf4a31bea635d19c4ffe4bfd442"
+          }
+        },
+        {
+          "client_id": "465233955237-imhtt5a3702t4vbmdqs9phrtkh63jr2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutNMzhWb0RMeyBzi5i_Yr692ambpmRgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465233955237-imhtt5a3702t4vbmdqs9phrtkh63jr2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
